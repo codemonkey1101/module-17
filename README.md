@@ -25,3 +25,6 @@ The list of features that were either used directly or transformed from the orig
 - nr.employed
 
 More details on the features and how they were used can be found in the attached python notebook.
+
+Response from Savio Saldanha:
+Consider engineering features and selecting the best subset. Also consider using an alternative to gridsearch to speed up parameter tuning.
